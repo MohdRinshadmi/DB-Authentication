@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "438175936978",
+    "project_id": "authentication-39876",
+    "storage_bucket": "authentication-39876.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438175936978:android:1cf2630e0adcc31946980b",
+        "android_client_info": {
+          "package_name": "com.dbauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438175936978-u9kdkup3un84uj1chhidke5vl8333lc3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dbauth",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "438175936978-tf1bqli6f80tc5om3vt8u58l7a4cmr6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4iaSyR7eG2ezDAppNe9yMDrRa9kKI4IQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438175936978-tf1bqli6f80tc5om3vt8u58l7a4cmr6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
